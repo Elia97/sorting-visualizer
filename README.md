@@ -1,23 +1,23 @@
 # Sorting Visualizer
 
-An interactive application that allows you to visualize sorting algorithms in real-time.
+Un'applicazione interattiva che consente di visualizzare gli algoritmi di ordinamento in tempo reale.
 
-## 📋 Description
+## 📋 Descrizione
 
-This project is a sorting algorithm visualizer built with React that enables you to:
+Questo progetto è un visualizzatore di algoritmi di ordinamento costruito con React che consente di:
 
-- Observe how different sorting algorithms work in real-time
-- Compare the performance and characteristics of each algorithm
-- Intuitively understand how algorithms work through visual representation
+- Osservare come funzionano i diversi algoritmi di ordinamento in tempo reale
+- Confrontare le prestazioni e le caratteristiche di ciascun algoritmo
+- Comprendere in modo intuitivo il funzionamento degli algoritmi attraverso una rappresentazione visiva
 
-Sorting algorithms are fundamental in computer science, and this application provides an intuitive way to see how each algorithm manipulates an array of data through animations.
+Gli algoritmi di ordinamento sono fondamentali in informatica e questa applicazione offre un modo intuitivo per vedere come ogni algoritmo manipola un array di dati attraverso animazioni.
 
-## 🧩 Implemented Algorithms
+## 🧩 Algoritmi implementati
 
-The application includes the following sorting algorithms:
+L'applicazione include i seguenti algoritmi di ordinamento:
 
-- Selection Sort: Finds the minimum value and places it at the beginning of the unsorted array
-- Insertion Sort: Builds a sorted array one element at a time
-- Bubble Sort: Compares adjacent pairs of elements and swaps them if they are in the wrong order
-- Quick Sort: Uses the "divide and conquer" approach with a pivot element
-- Heap Sort: Uses a binary heap data structure to sort elements
+- Selection Sort: Trova il valore minimo e lo colloca all'inizio dell'array non ordinato
+- Insertion Sort: Costruisce un array ordinato un elemento alla volta
+- Bubble Sort: Confronta coppie di elementi adiacenti e li scambia se sono nell'ordine sbagliato
+- Quick Sort: Utilizza l'approccio “divide et impera” con un elemento pivot
+- Heap Sort: Utilizza una struttura dati heap binaria per ordinare gli elementi.
